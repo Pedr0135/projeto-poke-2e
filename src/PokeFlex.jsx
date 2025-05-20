@@ -1,7 +1,7 @@
 import poke from './assets/pokeapi_256.png'
 import eevee from './assets/eevee.jpg'
-import './Home.css'
-const Home = () => {
+import './PokeFlex.css'
+const PokeFlex = () => {
     return (
     
     <div>
@@ -15,4 +15,4 @@ const Home = () => {
 
     )
 }
-export default Home
+export default PokeFlex
